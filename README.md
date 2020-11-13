@@ -16,7 +16,7 @@ Out the box support for monthly subscription and redirection to host domain.  Th
 ## Usage ##
 Deploy the function to Azure by clicking the button below:
 
-[![Deploy to Azure](http://azuredeploy.net/deploybutton.svg)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftoolboc%2Fstripe-function%2Fmaster%2Fazuredeploy.json)
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.svg)](https://portal.azure.com/?WT.mc_id=iot-0000-pdecarlo#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftoolboc%2Fstripe-function%2Fmaster%2Fazuredeploy.json)
 
 You can test the deployed function by creating an html file with the following:
 
